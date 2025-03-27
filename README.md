@@ -6,7 +6,7 @@
 
 **I’m James, and I’m passionate about creating Mastery of DevOps the Software Development Life Cycle (SDLC).**
 
-Through my [YouTube channel](https://youtube.com/@g3xDevCreative), I create engaging videos, tutorials, and articles that simplify DevOps and Linux concepts, making them easy to understand.
+Through my [YouTube channel](https://youtube.com/@tuxtuts), I create engaging videos, tutorials, and articles that simplify DevOps and Linux concepts, making them easy to understand.
 
 Whether you're an aspiring engineer, a tech enthusiast, or just curious about IT, my content provides valuable insights and practical knowledge to help you navigate the world of automation, cloud computing, and open-source systems.
 
