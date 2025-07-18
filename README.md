@@ -1,10 +1,10 @@
-# James Vince
+# Jimmy Vee
 
 [![Welcome](https://jamesvince.net/assets/banner.jpg)](https://Jamesvince.net/)
 
 **Hey, there!**
 
-**I’m James, and I’m passionate about creating Mastery of DevOps the Software Development Life Cycle (SDLC).**
+**I’m Jimmy, and I’m passionate about creating Mastery of DevOps the Software Development Life Cycle (SDLC).**
 
 Through my [YouTube channel](https://youtube.com/@tuxtuts), I create engaging videos, tutorials, and articles that simplify DevOps and Linux concepts, making them easy to understand.
 
